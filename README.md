@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/107973014/207370436-3076c072-e1bd-4351-bf85-32545e2d87ff.png)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/107973014/207383090-a318a012-4a43-463b-91b6-ca67ab71ac68.gif)
 
 <h1 align="center">Hi there 👋, I'm Sourav Prasanna</h1>
 <h3 align="center">A passionate backend developer</h3>
