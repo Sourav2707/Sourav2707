@@ -1,4 +1,4 @@
-<p><img align="center"![image](https://user-images.githubusercontent.com/107973014/207369665-a4821481-c39d-4c7f-a21c-fa2baf0b8009.png)
+![image](https://user-images.githubusercontent.com/107973014/207370057-060466c4-c692-422a-b35e-1493d54d19c5.png)
 
 <h1 align="center">Hi there 👋, I'm Sourav Prasanna</h1>
 <h3 align="center">A passionate backend developer</h3>
