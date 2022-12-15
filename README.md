@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Sourav Prasanna</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 👨‍💻 I’m currently working for Tata Consultancy Services as a contract employee through Crown Solutions as my vendor. **Ingrum Micro/Cloud Blue Commerce(CBC)**
+- 👨‍💻 I’m currently working for Tata Consultancy Services as a contract employee through Crown Solutions as my vendor. **Project: Ingrum Micro/Cloud Blue Commerce(CBC)**
 
 - 💡 I’m currently learning Java Full Stack Development at Bridgelabs solution.
 
