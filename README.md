@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working for Tata Consultancy Services as a contract employee through Crown Solutions as my vendor. **Project: Ingrum Micro/Cloud Blue Commerce(CBC)**
 
-- 💡 I’m currently learning Java Full Stack Development at Bridgelabs solution.
+- 💡 I’m also learning Java Full Stack Development at Bridgelabs solution.
 
 - 🛠  My skill sets are Java, Springboot, Microservices (Intermediate level with hands on experience) and I also know C# .NET (Beginner level).
 
